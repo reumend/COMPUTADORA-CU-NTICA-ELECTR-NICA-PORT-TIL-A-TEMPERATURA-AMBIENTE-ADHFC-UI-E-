@@ -1,4 +1,4 @@
-# COMPUTADORA-CU-NTICA-ELECTR-NICA-PORT-TIL-A-TEMPERATURA-AMBIENTE-ADHFC-UI-E-
+# COMPUTADORA-CUANTICA-ELECTRONICA-PORTATIL-A-TEMPERATURA-AMBIENTE-ADHFC-UI-E-
 ADHFC-UI-E: Arquitectura Digital del Hardware Cuántico Electrónico Universal Integrado Portátil
 
 https://img.shields.io/badge/Quantum-Chip-blue
